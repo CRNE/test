@@ -1,7 +1,7 @@
 var ctx = document.getElementById("myChart").getContext('2d');
 
 
-var data = [10,	3,	26,	12]; 
+var data = [100,	30,	260,	120]; 
 
 var labels = ["Energy",	"Infrastructure, mining and comodities",	"Transport",	"Other"];
 
