@@ -12,7 +12,7 @@ var myChart = new Chart(ctx, {
     data: {
         labels: labels,
         datasets: [{
-            label: 'Headlights with Barclays', // Name the series
+            label: 'Energy Industries - Barclays', // Name the series
             data: data, // Specify the data values array
             backgroundColor: [ // Specify custom colors
                 'rgba(255, 99, 132, 0.2)',
