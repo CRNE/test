@@ -35,6 +35,6 @@ var myChart = new Chart(ctx, {
     },
     options: {
       responsive: true, // Instruct chart js to respond nicely.
-      maintainAspectRatio: true, // Add to prevent default behaviour of full-width/height
+      maintainAspectRatio: false, // Add to prevent default behaviour of full-width/height
     }
 });
